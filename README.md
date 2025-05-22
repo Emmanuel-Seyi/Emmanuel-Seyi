@@ -10,7 +10,7 @@
 
 ## **Professional Summary**
 
-Versatile and Impact-Oriented Data Analyst with 9 years of experience driving data strategy and insights across the education technology and electrical engineering industries. Adept at leveraging analytical tools such as SQL, Python, Tableau, Power BI, and Excel to extract, transform, and visualize data, enabling informed decision-making and operational efficiency. Skilled in designing and maintaining end-to-end data pipelines, automating ETL processes, and building predictive models that improve system performance and reduce costs. Demonstrated success in supporting learning platform optimization in EdTech and enhancing technical systems monitoring in the electrical sector.
+Versatile and Impact-Oriented Data Analyst with 6 years of experience driving data strategy and insights across the education technology and electrical engineering industries. Adept at leveraging analytical tools such as SQL, Python, Tableau, Power BI, and Excel to extract, transform, and visualize data, enabling informed decision-making and operational efficiency. Skilled in designing and maintaining end-to-end data pipelines, automating ETL processes, and building predictive models that improve system performance and reduce costs. Demonstrated success in supporting learning platform optimization in EdTech and enhancing technical systems monitoring in the electrical sector.
 
 Highly collaborative and detail-oriented, with a strong ability to communicate data findings to both technical and non-technical stakeholders. Known for aligning analytics initiatives with business goals, streamlining reporting, and fostering data-informed cultures across global teams. Passionate about continuous learning, data automation, and delivering practical solutions that create measurable value.
 
@@ -30,7 +30,7 @@ Highly collaborative and detail-oriented, with a strong ability to communicate d
 
 ## **Professional Experience**
 
-### AMDARI, Canada  
+### AMDARI Inc. Manchester, UK  
 **Data Analyst Consultant** — *February 2025 – Present*  
 - Developed and optimized supply chain dashboards in Power BI, improving reporting efficiency by 60%  
 - Led sales and customer analytics projects increasing conversion rates by 25%  
